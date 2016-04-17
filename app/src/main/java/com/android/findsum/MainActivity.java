@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     public int sum(int one, int two){
-       return one - two;
+       return one + two;
     }
 
     public void clickButton(View v){
