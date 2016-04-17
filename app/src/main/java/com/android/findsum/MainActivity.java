@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-
+    // Method for sum
     public int sum(int one, int two){
        return one + two;
     }
